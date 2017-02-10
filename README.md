@@ -7,6 +7,9 @@
 ![image](https://github.com/wjn919/MyMaterialDemo/blob/master/app/screenshots/dialog.png)
 ![image](https://github.com/wjn919/MyMaterialDemo/blob/master/app/screenshots/视差特效1.png)
 ![image](https://github.com/wjn919/MyMaterialDemo/blob/master/app/screenshots/视差特效2.png)
+
+###apk下载
+   - [apk 下载](https://github.com/wjn919/MyMaterialDemo/raw/master/app/screenshots/MyMaterialDemo.apk)
 ###介绍
 这是一个材料设计控件的基本使用demo（Material Design）：
    - AppBarLayout+ToolBar+CoordinatorLayout实现标题栏代替之前的ActionBar,标题栏可随滑动控件联动，展示和隐藏
