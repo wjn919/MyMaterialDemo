@@ -9,8 +9,10 @@
    - BottomNavigationBar+Fragment 实现底部导航切换效果，可跟随列表滑动联动实现展示和隐藏
    - MaterialDialog 基本材料设计对话框的使用
    - FloatingActionButton+Snackbar 升级版toast
+
  ###参考
    - 阳春面的博客（Material Design Example）的样式设计
+
  ###关于我
    - 我的github：[wjn919](https://github.com/wjn919)
    - 我的CSDN博客：[wjn919](http://blog.csdn.net/wjn_yes)
