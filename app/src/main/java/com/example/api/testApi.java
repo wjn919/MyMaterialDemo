@@ -12,6 +12,6 @@ import rx.Observable;
  */
 
 public interface testApi {
-    @GET("https://api.douban.com/v2/book/search")
+    @GET("v2/book/search")
     Observable<BookResponse> getBooks(@QueryMap Map<String, String> options);
 }
